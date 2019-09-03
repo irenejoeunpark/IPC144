@@ -1,0 +1,12 @@
+{\rtf1\ansi\ansicpg949\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww25400\viewh16000\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\tx10718\ri-1077\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 In this assignment, I was able to learn how to use function and the pointer in the program. 
+\f1 In this assignment, I used three different code files which is header file, source file and the main file. In the header the struct of contact was needed to make functions to get the information. Since I made another struct contact, all of the information was stored in one struct of struct called contact.\
+We were using pointers in the function so that as we get more information, it remains unchanged.\
+It would not be a good design to pass a pointer inside functions because we can just use the other insider structs to get and store the information.\
+One more thing I was able to learn through this assignment was how to make function in the other code called source file and use those by calling the header file. With this method I would be able to modify just the main code function if needed anytime. I had to change the output of the function from the previous one, but I only had to change few things since I already have all the function and programming in the other two codes. }

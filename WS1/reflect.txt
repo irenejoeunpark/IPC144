@@ -1,0 +1,7 @@
+Jo Eun Park
+147824189
+IPC144 SNN
+ipark10@myseneca.ca
+I have tried to make the lab workshop, I forgot to put \n at the end of the line so this made my assignment attached to the line that needs to be at the next line.
+I also realized that "*" does not need the backslash sign before it.
+Everytime I have something wrong on the code like mistakes, the solution at the bottom shows there is an error in the code so that I could fix it before I debug it.

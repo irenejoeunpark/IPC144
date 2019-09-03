@@ -1,0 +1,5 @@
+This workshop was focusing on the struct of arrays and looping using those structures. The struct of arrays made the coding easier since it could be sorted in a set of sets. For example, the struct of Employee that I used in theprogram, each arrays inside the struct had data of each employee in order of ID, age, salary and I just had to index what information I need or I need to update. 
+
+The advantages of using an array of structs versus the parallel arrays is we do not have to make every single array when we need more information. If I was using parallel arrays I would not know how many or how long my array shouldbe and it could be so confused. Another advantage is clearly represented in my code, where I did not have to make a lot of variables and being confused every time. 
+
+We can globally store the data for the structure Employee in a separate header file by using Employee.h, and we can simply include that structures by using ”#include “Employee.h””. This is another good way to call or store the structdata. 

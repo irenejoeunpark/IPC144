@@ -1,0 +1,14 @@
+{\rtf1\ansi\ansicpg949\cocoartf1561\cocoasubrtf100
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11960\viewh7700\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 The Pseudo-coding that was instructed on the blackboard made the real coding much easier because it helped me with human language that I am used to. The step-by-step instruction with real \'a1\'b0language\'a1\'b1 is helpful because it gives me some idea about where to start and logical planning for the program. If I did not use Pseudo code and just follow the instruction, it would be much harder since I had no idea which command I should use, where does it go and where to put it.\
+\
+The 3 types of iteration constructs are for loop, while loop, and if loop. I used all three on my program. For loop could be used for looping functions in specific range. While or do while loop could be used for some conditional range such as until it gets to a specific value. If loop is a loop that only applied for specific condition, it is a boolean loop for functions. I used the for loop since I need to take the value from day 1 to day 4. Do-while loop was used for the error message because if it gets to an incorrect value, it automatically needs to show error message and if it has correct value it just keep go on until the end. If loop was used for several parts in the whole code. One example is a highest/lowest value and its dates. If the value for day x is higher than the highest value I set before, the x is replacing the highest day and the highest value is being replaced with the temperature for day x.\
+\
+Interesting part from the programming was how we can set up the value as a word ( NUMS ). This made the whole coding much easier because I only had to change the NUMS value from the in-lab section. The iteration constructs were both interesting and difficult for me since that was a new concept for me. It was interesting because I could make the program fancier with looping the whole code inside the loop. If I did not use the loops, it would not be possible to make the code, or even if its possible, I should have had hundreds of conditions and lines. The difficult part was it was hard to recognize where to put the expressions, commands, and another iteration loops in the loop. There were loops inside the loops, so it was very hard to decide locating them. \
+\
+}

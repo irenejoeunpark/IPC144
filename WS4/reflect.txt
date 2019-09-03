@@ -1,0 +1,4 @@
+Through the workshop I was able to make program using arrays. By using arrays I was able to store several information in one variable. I could use the arrays as a set of elements, and I could easily find the elements by only using the index of it. 
+Especially when I was using loops, I could use the index of the array so that I could find which number of day was it and high, low temperature of that day. 
+Using of parallel array for high temperature and low temperature was making the whole function easier. Because for same index i, high and low temperature for day i was coming up and I could loop it only with single variable i, and index i.
+When we are looping through arrays, the initial value usually starts with 0, it is easier because first element of array has an index of 0. For example if I have an array number = {one, two, three}, the first element is array[0] not array[1] 

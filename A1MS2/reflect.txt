@@ -1,0 +1,6 @@
+Throuth this assignment, I was able to use the header file as a structure code finctioan and using that header file into my source code. The c string by making a character array by adding one more number to the maximum length. 
+
+If the user could enter all of the information at once, not one at a time, it would be more efficient because it is less work. For example if name, address, cellphone could be separated with tab,it whould be a lot easier to input the data.
+
+The print specifier %s was used for the printf statement for c string data. I was not able to get the data with scanf by using %s specifier, istead I had to use different specifier because it could not read those blank space from the input.
+
